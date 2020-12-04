@@ -1,0 +1,4 @@
+C:\Users\mathe\source\repos\ProductSOLID\obj\Debug\netcoreapp3.1\ProductSOLID.csprojAssemblyReference.cache
+C:\Users\mathe\source\repos\ProductSOLID\obj\Debug\netcoreapp3.1\ProductSOLID.AssemblyInfoInputs.cache
+C:\Users\mathe\source\repos\ProductSOLID\obj\Debug\netcoreapp3.1\ProductSOLID.AssemblyInfo.cs
+C:\Users\mathe\source\repos\ProductSOLID\obj\Debug\netcoreapp3.1\ProductSOLID.csproj.CoreCompileInputs.cache
